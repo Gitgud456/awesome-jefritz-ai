@@ -14,6 +14,7 @@ This repo indexes everything I'm building — current and future.
 - [🔍 RAG & Retrieval](#rag--retrieval)
 - [🖥️ Computer Vision & Edge AI](#computer-vision--edge-ai)
 - [⚙️ Automation & Workflows](#automation--workflows)
+- [🎙️ Voice & Speech AI](#voice--speech-ai)
 
 ## Agents & Multi-Agent Systems
 
@@ -30,6 +31,9 @@ This repo indexes everything I'm building — current and future.
 ## Automation & Workflows
 
 - **[Omni-Channel-Factory](https://github.com/Gitgud456/Omni-Channel-Factory)** — Multi-channel content publishing platform (Pinterest, Instagram, Facebook, and more)
+- 
+## Voice & Speech AI
+- **[Omnitalk](https://github.com/Gitgud456/Omnitalk)** - Real-time, two-way speech-to-speech translation system. Pluggable ASR -> MT -> TTS pipeline (faster-whisper/omnilingual-asr, Gemma 3 via Ollama, Piper/XTTS) with hardware-adaptive engine selection, a Flutter mobile client, and consent-gated voice cloning
 
 ## About me
 
